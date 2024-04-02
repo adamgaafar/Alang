@@ -1,0 +1,5 @@
+var num = 20
+var Hello = "Hello, World"
+print(num)
+print(Hello)
+print(200)
