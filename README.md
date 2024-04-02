@@ -1,5 +1,5 @@
 # Alang
-A simple language implemented using antlr4 and Java
+A simple programming language implemented using antlr4 and Java
 
 ### Sample input
 
