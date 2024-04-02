@@ -15,7 +15,7 @@ import org.antlr.v4.runtime.CommonTokenStream;
 
 /**
  *
- * @author Shalitha Suranga
+ * @author Adam Gaafar
  */
 public class Alang {
 
